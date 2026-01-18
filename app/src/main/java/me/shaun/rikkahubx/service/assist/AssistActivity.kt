@@ -33,7 +33,9 @@ import com.dokar.sonner.ToastType
 import kotlinx.coroutines.launch
 import me.rerere.ai.ui.UIMessagePart
 import me.shaun.rikkahubx.R
+import me.shaun.rikkahubx.BuildConfig
 import me.shaun.rikkahubx.data.datastore.SettingsStore
+import me.shaun.rikkahubx.data.datastore.getCurrentAssistant
 import me.shaun.rikkahubx.service.ChatService
 import me.shaun.rikkahubx.ui.components.ai.ChatInput
 import me.shaun.rikkahubx.ui.context.LocalToaster
