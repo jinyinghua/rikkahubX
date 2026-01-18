@@ -6,7 +6,6 @@
 
 [English](README.md) | [繁體中文](README_ZH_TW.md) | 简体中文
 
-点击链接加入群聊 👉 [【RikkaHub】](https://qm.qq.com/q/I8MSU0FkOu)
 
 </div>
 
@@ -17,24 +16,6 @@
   <img src="docs/img/assistants.png" alt="Assistants" width="150" />
 </div>
 
-## 🚀 下载
-
-🔗 [前往官网下载](https://rikka-ai.com/download)
-🔗 [前往 Google Play 下载](https://play.google.com/store/apps/details?id=me.rerere.rikkahub)
-
-
-## 💖 赞助商
-
-<div align="center">
-  <img src="app/src/main/assets/icons/aihubmix-color.svg" alt="Aihubmix" width="50" />
-  <p style="font-size: 16px; font-weight: bold;">Aihubmix</p>
-  <p style="font-size: 14px;">感谢 <a href="https://aihubmix.com?aff=pG7r">aihubmix.com</a> 的资金支持。我们推荐使用 aihubmix 作为全球主流模型的一站式服务平台。（OpenAI、Claude、Google Gemini、DeepSeek、Qwen 以及数百种其他模型）。</p>
-</div>
-<div align="center">
-  <img src="app/src/main/assets/icons/siliconflow.svg" alt="SiliconFlow" width="50" />
-  <p style="font-size: 16px; font-weight: bold;">SiliconFlow</p>
-  <p style="font-size: 14px;">感谢 <a href="https://siliconflow.cn/">siliconflow.cn</a> 与我们合作提供免费模型。</p>
-</div>
 
 ## ✨ 功能特色
 
@@ -80,16 +61,7 @@
 > 2. 添加新功能，这个项目是有态度的
 > 3. AI生成的大规模重构和更改
 
-## 💰 捐赠
 
-* [Patreon](https://patreon.com/rikkahub)
-* [爱发电](https://afdian.com/a/reovo)
-
-## ⭐ Star History
-
-如果喜欢这个项目，请给个Star ⭐
-
-[![Star History Chart](https://api.star-history.com/svg?repos=re-ovo/rikkahub&type=Date)](https://star-history.com/#re-ovo/rikkahub&Date)
 
 ## 📄 许可证
 

@@ -4,7 +4,7 @@
 
 一個原生Android LLM 聊天客戶端，支持切換不同的供應商進行聊天 🤖💬
 
-點擊加入我們的Discord伺服器 👉 [【RikkaHub】](https://discord.gg/9weBqxe5c4)
+
 
 [English](README.md) | 繁體中文 | [简体中文](README_ZH_CN.md)
 
@@ -17,23 +17,8 @@
   <img src="docs/img/assistants.png" alt="Assistants" width="150" />
 </div>
 
-## 🚀 下載
 
-🔗 [前往官網下載](https://rikka-ai.com/download)
-🔗 [前往 Google Play 下載](https://play.google.com/store/apps/details?id=me.rerere.rikkahub)
 
-## 💖 贊助商
-
-<div align="center">
-  <img src="app/src/main/assets/icons/aihubmix-color.svg" alt="Aihubmix" width="50" />
-  <p style="font-size: 16px; font-weight: bold;">Aihubmix</p>
-  <p style="font-size: 14px;">感謝 <a href="https://aihubmix.com?aff=pG7r">aihubmix.com</a> 的資金支持。我們推薦使用 aihubmix 作為全球主流模型的一站式服務平台。（OpenAI、Claude、Google Gemini、DeepSeek、Qwen 以及數百種其他模型）。</p>
-</div>
-<div align="center">
-  <img src="app/src/main/assets/icons/siliconflow.svg" alt="SiliconFlow" width="50" />
-  <p style="font-size: 16px; font-weight: bold;">SiliconFlow</p>
-  <p style="font-size: 14px;">感謝 <a href="https://siliconflow.cn/">siliconflow.cn</a> 與我們合作提供免費模型。</p>
-</div>
 
 ## ✨ 功能特色
 
@@ -79,17 +64,8 @@
 > 2. 添加新功能，這個項目是有態度的
 > 3. AI生成的大規模重構和更改
 
-## 💰 捐贈
 
-* [Patreon](https://patreon.com/rikkahub)
-* [愛發電](https://afdian.com/a/reovo)
-
-## ⭐ Star History
-
-如果喜歡這個項目，請給個Star ⭐
-
-[![Star History Chart](https://api.star-history.com/svg?repos=re-ovo/rikkahub&type=Date)](https://star-history.com/#re-ovo/rikkahub&Date)
 
 ## 📄 許可證
 
-[License](LICENSE) 
+[License](LICENSE)
