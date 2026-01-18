@@ -76,6 +76,46 @@
         android:resource="@xml/file_paths" />
     </provider>
 
+    <service
+        android:name=".service.assist.AssistService"
+        android:label="@string/app_name"
+        android:permission="android.permission.BIND_VOICE_INTERACTION"
+        android:exported="true">
+        <meta-data
+            android:name="android.voice_interaction"
+            android:resource="@xml/assist_service" />
+        <intent-filter>
+            <action android:name="android.service.voice.VoiceInteractionService" />
+        </intent-filter>
+    </service>
+
+    <service
+        android:name=".service.assist.AssistSessionService"
+        android:permission="android.permission.BIND_VOICE_INTERACTION"
+        android:exported="true">
+        <meta-data
+            android:name="android.voice_interaction"
+            android:resource="@xml/assist_session_service" />
+    </service>
+
+    <service
+        android:name=".service.assist.AssistRecognitionService"
+        android:label="@string/app_name"
+        android:exported="true"
+        android:permission="android.permission.BIND_VOICE_INTERACTION">
+        <intent-filter>
+            <action android:name="android.speech.RecognitionService" />
+            <category android:name="android.intent.category.DEFAULT" />
+        </intent-filter>
+    </service>
+
+    <activity
+        android:name=".service.assist.AssistActivity"
+        android:exported="false"
+        android:theme="@style/Theme.Rikkahub.Assist"
+        android:configChanges="keyboardHidden|orientation|screenSize"
+        android:windowSoftInputMode="adjustResize" />
+
     <provider
       android:name="androidx.startup.InitializationProvider"
       android:authorities="${applicationId}.androidx-startup"
